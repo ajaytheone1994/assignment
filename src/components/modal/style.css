@@ -1,0 +1,10 @@
+.Calernder{
+    margin-left: 25%;
+    margin-top: 10px
+}
+@media screen and (max-width:768px){
+    .Calernder{
+        margin-left:2px;
+        
+    }
+}
